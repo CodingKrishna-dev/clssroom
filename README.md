@@ -1,1 +1,1 @@
-This is for better understandin of git hub.
+This is for better understanding of git hub.
